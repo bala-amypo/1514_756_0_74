@@ -44,7 +44,7 @@ longitude) {
 
     }
     public LocationEntity() {
-    }          
+    } 
    
 
    
